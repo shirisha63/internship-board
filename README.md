@@ -20,6 +20,18 @@ Features
 - Empty search results message
 - Error handling
 - Accessible form labels and keyboard navigation
+- Website Screenshots
+Home Page
+
+
+
+
+Internship Listings
+
+
+
+
+Search Results
 
 Live Website
 
