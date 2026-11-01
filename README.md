@@ -21,7 +21,9 @@ Features
 - Error handling
 - Accessible form labels and keyboard navigation
 - Website Screenshots
-Home Page
+  home page.png
+  internship page.png
+  
 
 
 
