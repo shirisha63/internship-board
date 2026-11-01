@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "company": "Google",
+        "role": "Frontend Developer Intern",
+        "domain": "Web Development",
+        "location": "Bangalore",
+        "stipend": "₹15,000/month",
+        "duration": "3 Months",
+        "type": "Remote"
+    },
+    {
+        "id": 2,
+        "company": "Infosys",
+        "role": "Java Developer Intern",
+        "domain": "Java",
+        "location": "Hyderabad",
+        "stipend": "₹10,000/month",
+        "duration": "6 Months",
+        "type": "On-site"
+    },
+    {
+        "id": 3,
+        "company": "Microsoft",
+        "role": "AI Developer Intern",
+        "domain": "AI/ML",
+        "location": "Bangalore",
+        "stipend": "₹20,000/month",
+        "duration": "3 Months",
+        "type": "Hybrid"
+    },
+    {
+        "id": 4,
+        "company": "TCS",
+        "role": "Python Developer Intern",
+        "domain": "Python",
+        "location": "Hyderabad",
+        "stipend": "₹8,000/month",
+        "duration": "3 Months",
+        "type": "On-site"
+    },
+    {
+        "id": 5,
+        "company": "Wipro",
+        "role": "Data Analyst Intern",
+        "domain": "Data Analytics",
+        "location": "Chennai",
+        "stipend": "₹12,000/month",
+        "duration": "4 Months",
+        "type": "Remote"
+    },
+    {
+        "id": 6,
+        "company": "Adobe",
+        "role": "UI/UX Design Intern",
+        "domain": "UI/UX Design",
+        "location": "Noida",
+        "stipend": "₹15,000/month",
+        "duration": "3 Months",
+        "type": "Hybrid"
+    },
+    {
+        "id": 7,
+        "company": "Accenture",
+        "role": "Web Developer Intern",
+        "domain": "Web Development",
+        "location": "Hyderabad",
+        "stipend": "₹12,000/month",
+        "duration": "6 Months",
+        "type": "On-site"
+    },
+    {
+        "id": 8,
+        "company": "IBM",
+        "role": "Python Intern",
+        "domain": "Python",
+        "location": "Pune",
+        "stipend": "₹10,000/month",
+        "duration": "3 Months",
+        "type": "Remote"
+    },
+    {
+        "id": 9,
+        "company": "Oracle",
+        "role": "Java Backend Intern",
+        "domain": "Java",
+        "location": "Bangalore",
+        "stipend": "₹18,000/month",
+        "duration": "6 Months",
+        "type": "Hybrid"
+    }
+]
