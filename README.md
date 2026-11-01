@@ -20,9 +20,16 @@ Features
 - Empty search results message
 - Error handling
 - Accessible form labels and keyboard navigation
-- Website Screenshots
-  home page.png
-  internship page.png
+## Website Screenshots
+
+### Home Page
+![Home Page](home%20page.png)
+
+### Internship Listings
+![Internship Page](internship%20page.png)
+
+### Search Results
+![Search Results](Screenshot%202026-11-01%20124418.png)
   
 
 
